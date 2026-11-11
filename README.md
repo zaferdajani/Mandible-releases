@@ -1,8 +1,7 @@
 # Mandible: War Beneath the Grass
 
-Downloads only. This repository holds the game's builds; the source code is private.
-
-Get the latest version from [Releases](https://github.com/zaferdajani/Mandible-releases/releases/latest).
+**This repository has moved.** New versions are published at
+[github.com/zaferdajani/Mandible/releases/latest](https://github.com/zaferdajani/Mandible/releases/latest).
 
 - Windows: unzip Mandible-Windows.zip and run Mandible.exe (it updates itself from the menu)
 - macOS (Apple Silicon + Intel): unzip Mandible-macOS.zip, then right-click Mandible.app > Open the first time
